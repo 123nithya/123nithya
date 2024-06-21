@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web Development, React JS, Java, AWS, MySql, Ms Excel**
 
-- 📫 How to reach me **[nithyasivan2003@gmail.com](https://www.linkedin.com/in/nithyasivan2/)**
+- 📫 How to reach me **nithyasivan2003@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XYHo0CQwZdWp6RBpV0xmE_RpE8gwex8y/view?usp=sharing](https://drive.google.com/file/d/1XYHo0CQwZdWp6RBpV0xmE_RpE8gwex8y/view?usp=sharing)
 
